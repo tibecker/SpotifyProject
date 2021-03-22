@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/r7XLsyv775wkkzQ8RM3NDYH26svgr7fhVZXkMHQjCT77etjBwgC8is5dlgTpj+mMDOAvC/7d3qX3AsG+LNwTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Student\\git\\SpotifyProject\\SpotifyApp4\\SpotifyConsole\\SpotifyConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Student\\.nuget\\packages\\consolemenuframework\\1.5.0\\consolemenuframework.1.5.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
